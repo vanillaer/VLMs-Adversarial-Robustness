@@ -129,7 +129,7 @@ keywords：backdoor attacks for CLIP（especially when text prompts tuning）, C
 
 
 
-# 4 for Test-time Defenses
+# 4 Standard adv for Test-time Defenses
 
 
 ## ICML2022
@@ -217,7 +217,7 @@ Self-supervised pre-training has drawn increasing attention in recent years due 
 keywords：Adversarial attacks for pretrained models, Classification tasks
 
 
-# standard adv examples
+# Standard adv examples
 - $ attacks:
 
 ## ICCV2023
@@ -229,7 +229,7 @@ diffusion model for generating adv example
 
 
 
-# VLM相关survey:
+# VLM-adv相关survey:
 
 
 - Multi-Modal Learning System的综述：
