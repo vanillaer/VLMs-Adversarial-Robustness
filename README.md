@@ -258,3 +258,7 @@ The success of machine learning is fueled by the increasing availability of comp
 
 [[import-xin2024parameterefficient-Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models - A Survey]]
 
+
+# Other links：
+- [[已完结][论文汇总] ICCV 2023 对抗样本方向论文整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/652844988)
+
