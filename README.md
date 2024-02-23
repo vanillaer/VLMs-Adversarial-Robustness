@@ -88,7 +88,6 @@ With the rapid advancement of multimodal learning, pre-trained Vision-Language M
 
 keywords：defense Adversarial attacks for CLIP through adversarial training, Classification tasks
 
-最近比较关注这类的论文
 
 
 ## 2.2.2 ICLR2023
