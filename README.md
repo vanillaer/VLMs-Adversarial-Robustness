@@ -5,7 +5,7 @@ This is a repository for the papers related to pretrained models and adversarial
 
 
 
-# 1 multimodal adversarial attacks
+# 1 Multimodal adversarial attacks
 
 
 ## 1.0 ICCV2023
